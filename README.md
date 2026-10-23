@@ -17,13 +17,13 @@ by @[CatrinaB](https://github.com/CatrinaB/)
 % background, other related studies (related work), and data science approaches similar to
 % yours. We expect you to include at least five carefully selected references. -->
 
-Physical activity has been shown to influence the progression of chronic diseases: increased activity tends to delay the onset of disease or slow down its progression, while sedentarism tends to increase the likelihood of developing a chronic condition. [^Fang2026],[^Poleszac2026] Not only that, but the patients' mood and comorbidities like depression and anxiety are also affected, being easier to manage for people who are more active than for those who aren't. [^Stephens2019]. However, physical activity is not something that exists in a vacuum: aside from the disease itself, it can also be influenced by external factors like temperature, humidity, or air pressure. [^Zhang2025],[^Ramadan2024].
+Physical activity has been shown to influence the progression of chronic diseases: increased activity tends to delay the onset of disease or slow down its progression, while sedentarism tends to increase the likelihood of developing a chronic condition. [^Fang2026] [^Poleszac2026] Not only that, but the patients' mood and comorbidities like depression and anxiety are also affected, being easier to manage for people who are more active than for those who aren't. [^Stephens2019] However, physical activity is not something that exists in a vacuum: aside from the disease itself, it can also be influenced by external factors like temperature, humidity, or air pressure. [^Zhang2025] [^Ramadan2024]
 
-As wearable sensor devices have become near ubiquitous and fairly accessible, researchers now have the opportunity to track patients in a more natural environment, for longer periods of time [^Rekeland2022],[^Zhang2025]. Thanks to the vast amounts of data generated, this presents the unique chance to better explore the influence of external factors on physical activity and to quantify it with "hard numbers" rather than subjective self-reports.
+As wearable sensor devices have become near ubiquitous and fairly accessible, researchers now have the opportunity to track patients in a more natural environment, for longer periods of time.[^Rekeland2022] [^Zhang2025] Thanks to the vast amounts of data generated, this presents the unique chance to better explore the influence of external factors on physical activity and to quantify it with "hard numbers" rather than subjective self-reports.
 
 ### Methods
 
-All hypotheses [^1] have been tested for a subset of 43 participants: participant with ID 4063 has been excluded, because their recorded wearable data spanned less than 48 hours. Similarly, the intervention and follow-up phases have been ignored due to missing information on when they took place.
+All hypotheses have been tested for a subset of 43 participants: participant with ID 4063 has been excluded, because their recorded wearable data spanned less than 48 hours. Similarly, the intervention and follow-up phases have been ignored due to missing information on when they took place.
 
 #### Hypothesis 1: Physical activity is related to weather
 
